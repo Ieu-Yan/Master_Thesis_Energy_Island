@@ -1,0 +1,13 @@
+#location: latitude and longitude, atlas_wind_speed: m/s, atlas_solar_power: kWh, solar_capacity: 1000 kW;;;;;
+name;location;onshore;atlas_wind_speed;atlas_solar_power;tilt_angle
+Energy Island;56.4000_6.8000;FALSE;10.63;1001000;37
+DK Wind;56.5200_8.1800;TRUE;10.27;1027000;41
+DK Solar;54.7800_11.1700;TRUE;9.37;1087000;40
+DE Wind;53.5700_8.3000;TRUE;10.27;1003000;39
+DE Solar;47.7000_11.3800;TRUE;4.07;1143000;39
+NO Wind;58.6200_5.8400;TRUE;10.5;916617;42
+NO Solar;58.9900_9.9500;TRUE;8.81;1045000;43
+NL Wind;53.2100_5.5100;TRUE;9.66;1042000;39
+NL Solar;52.7700_4.7200;TRUE;9.44;1076000;39
+GB Wind;54.7500_-1.3000;TRUE;9.58;932895;39
+GB Solar;51.1200_1.1800;TRUE;9.44;1083000;38
