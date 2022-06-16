@@ -152,10 +152,6 @@ def get_distance(switch): # require location
         distance = {'DE': (312.18,0)} # 
         distance2 = 30.67 # Bremerhaven Container-Terminal
 
-    elif switch['location'] == 'DE Wind':
-        distance = {'DE': (401.42,0)} # 
-        distance2 =  26.94 # Handelshafen
-
     elif switch['location'] == 'DE Solar':
         distance = {'DE': (382.30,0)} #
         distance2 = 461.82 # Intermodal Terminal Venice
